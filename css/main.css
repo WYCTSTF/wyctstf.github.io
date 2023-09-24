@@ -2428,7 +2428,3 @@ header.header {
     margin-bottom: 10px;
   }
 }
-.giscus {
-  max-width: unset;
-  box-sizing: border-box;
-}
